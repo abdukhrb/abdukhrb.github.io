@@ -1,8 +1,8 @@
-Origin: Xelahot's Repository
-Label: Xelahot's Repository
+Origin: Kahraba's Repository
+Label: Kahraba's Repository
 Suite: stable
-Version: 1.0
+Version: 0.0.1
 Codename: ios
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Architectures: iphoneos-arm
 Components: main
-Description: Xelahot's repository
+Description: Kahraba's repository
