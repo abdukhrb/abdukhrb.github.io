@@ -9,3 +9,7 @@ Architecture: iphoneos-arm
 Version: 0.0.1-1+debug
 Installed-Size: 168
 Filename: /debs/com.kahraba.agario_0.0.1-1+debug_iphoneos-arm.deb
+Size: 2188
+MD5sum: 2f86dd71dc22571e94ac18ddcb142ee3
+SHA1: a45863bffe7468e89ed914e6e288d62ffcb39b95
+SHA256: 245f82f13e74d81e23029f80e06edc4d6661fc0a9b6b9528e84ceb3432f01bdd
