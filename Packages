@@ -26,9 +26,9 @@ Version: 1.3.4
 Installed-Size: 404
 Filename: /debs/com.xelahot.xelahotagario_1.3.4_iphoneos-arm.deb
 Size: 72144
-MD5sum: ec8420d71273d2d7ed1012d42dc7cdcf
-SHA1: 404c9d30fb8b5bab7c3ae1ae78f94753415781d1
-SHA256: d5eddf9a58af53cd501aa79259716514b7005660851b6cdc8a13d458be0f79dc
+MD5sum: 132fdf54393c2104505b4ebe549fb9ff
+SHA1: c9be4aa332b884a7c4ab2a7cb93178529687e37c
+SHA256: b359fd265a25ca4b9607a15eadce2194f912e907edf3b91f4174b28181c7b930
 
 Package: com.xelahot.xelahotagario (rootless roothide)
 Name: Xelahot - Agar.io
